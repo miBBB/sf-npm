@@ -1,0 +1,16 @@
+{
+  "name": "random_element_9.5.1",
+  "version": "1.0.0",
+  "description": "Returns a random element from an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "miBBB",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miBBB/sf-npm/tree/main/9.5.1"
+  }
+}
